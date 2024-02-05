@@ -1,0 +1,22 @@
+.form {
+  padding: 2rem 3rem;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.inputNumber {
+  padding: 1.5rem 3rem;
+  border-radius: 15px;
+  font-size: 2rem;
+}
